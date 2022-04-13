@@ -1,12 +1,7 @@
 Lab 5 Readme
-Authors: Catie Corley and Sam Lu
 
 CSE 332S Lab 5: OOP Design
 
-Splitting up work:
-To divide up the work, we worked together during studio to complete all of the studio code. For Lab5, we worked 
-seperately on coding the individual classes/commands and met up to share our work with each other and to also work 
-together to debug errors we ran into. 
 
 Testing Lab 5:
 
@@ -34,7 +29,7 @@ vector of AbstractCommands
 invalid strings if the input was invalid 
 
 Macro Command: 
-We chose to implement a combined cat and ds macro command 
+implemented a combined cat and ds macro command 
 To invoke this command, use: 
 catds <filename> 
 catds <filename> -a 
